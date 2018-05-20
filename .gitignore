@@ -1,0 +1,12 @@
+/_build/
+/cover/
+/deps/
+/doc/
+/.fetch
+erl_crash.dump
+*.ez
+ueberauth_token_google-*.tar
+.env
+.iex.exs
+.notes
+/notes.exs

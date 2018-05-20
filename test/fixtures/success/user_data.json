@@ -1,0 +1,10 @@
+{
+  "email": "tester@example.com",
+  "email_verified": true,
+  "family_name": "Doe",
+  "given_name": "John",
+  "locale": "en-GB",
+  "name": "John Doe",
+  "picture": "some_url",
+  "sub": "unique_id"
+}
